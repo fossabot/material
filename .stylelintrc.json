@@ -160,7 +160,7 @@
     "value-no-vendor-prefix": true,
     "max-nesting-depth": 4,
     "selector-max-compound-selectors": 4,
-    "selector-max-specificity": 42,
+    "selector-max-specificity": "0,4,2",
     "at-rule-no-unknown": [
       true,
       {
